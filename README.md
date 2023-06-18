@@ -8,3 +8,4 @@ My first repository on Github
 ### PythonOOP1.png is a code that asserts that all flowers are blooming and growing; roses, daisies, and hydrangeas are three examples.
 ### PythonOOP2.png is a continuation of PythonOOP1.png
 ### Flower.py is the code used in PythonOOP1.png and PythonOOP2.png
+### NetworkDesign.png is a topology of the network within a household with two parents and a child.
