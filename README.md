@@ -10,3 +10,4 @@ My first repository on Github
 ### Flower.py is the code used in PythonOOP1.png and PythonOOP2.png
 ### NetworkDesign.png is a topology of the network within a household with two parents and a child.
 ### CoreySchwarzPolyShift.docx is an example of a Polyalphabetic Shift as well as an explanation of the differences between a Polyalphabetic Cypher and a Caesar Cypher.
+### SQLQuery.png is an SQL datamine showing the products in an inventory above 70 dollars in a descending order.
